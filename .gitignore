@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+employees.db
+.DS_Store
