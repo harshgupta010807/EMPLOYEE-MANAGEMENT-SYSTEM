@@ -11,7 +11,6 @@ This project uses Python and SQLite database to store employee information perma
 - View All Employees
 - Delete Employee
 - Store Employee Details
-- Search Employee Records
 
 ## Technologies Used
 - Python
